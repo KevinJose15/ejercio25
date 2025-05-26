@@ -1,4 +1,3 @@
-package EjercioImparypar;
 
 import java.util.Scanner;
 

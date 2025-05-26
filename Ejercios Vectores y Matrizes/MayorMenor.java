@@ -1,4 +1,3 @@
-package Ejerciomayorymenor;
 
 import java.util.Scanner;
 

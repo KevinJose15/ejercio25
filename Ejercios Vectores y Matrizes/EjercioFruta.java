@@ -1,4 +1,4 @@
-package EjercioFruta;
+
 
 import java.util.Scanner;
 

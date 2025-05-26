@@ -1,4 +1,3 @@
-package EjercioTranspuesta;
 
 import java.util.Scanner;
 

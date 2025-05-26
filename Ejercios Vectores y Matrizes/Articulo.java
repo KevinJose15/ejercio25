@@ -1,5 +1,3 @@
-package EjercioArticulo;
-
 import java.util.Scanner;
 
 public class Articulo {
